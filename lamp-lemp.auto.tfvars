@@ -1,0 +1,6 @@
+zone               = "ru-central1-a"
+folder_id          = "b1g8dtfapo33lj1ugosq"
+vm_image_family    = "lamp"
+vm_image_family_lemp   = "lemp"
+vm_user            = "debian"
+ssh_key_path       = "~/.ssh/id_rsa.pub"
